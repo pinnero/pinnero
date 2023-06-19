@@ -1,4 +1,6 @@
-### Hi there 👋 im or pinner 
+### Hi there 👋 im Or Pinner 
+- 🌱 second year student to computer science and physics in BGU.
+- - 🔭 I’m interested in programming, algorithms, data structures ,etc.
 
 <!--
 **pinnero/pinnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
