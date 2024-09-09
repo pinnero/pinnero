@@ -1,6 +1,6 @@
 ### Hi there 👋 im Or Pinner 
 - 🌱 software engineer, computer science and physics graduate from BGU.
-- - 🔭 I’m interested in programming, algorithms, data structures ,etc.
+- - 🔭 I’m interested in software development, algorithms, data structures, machine learning ,etc.
 
 <!--
 **pinnero/pinnero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
