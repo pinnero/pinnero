@@ -1,5 +1,5 @@
 ### Hi there 👋 im Or Pinner 
-- 🌱 second year student to computer science and physics in BGU.
+- 🌱 software engineer, computer science and physics graduate from BGU.
 - - 🔭 I’m interested in programming, algorithms, data structures ,etc.
 
 <!--
